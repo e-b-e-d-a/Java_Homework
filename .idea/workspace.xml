@@ -86,45 +86,47 @@
     <session id="1837194711">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="LICENSE" value="1" />
           <entry key="bat" value="1" />
-          <entry key="class" value="9" />
+          <entry key="class" value="13" />
           <entry key="gradle" value="5" />
           <entry key="gradlew" value="2" />
-          <entry key="java" value="8" />
+          <entry key="java" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="9" />
+          <entry key="CLASS" value="13" />
           <entry key="Groovy" value="5" />
-          <entry key="JAVA" value="8" />
+          <entry key="JAVA" value="10" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="class" value="4" />
+          <entry key="class" value="15" />
           <entry key="dummy" value="1" />
           <entry key="gradle" value="2" />
-          <entry key="java" value="1937" />
+          <entry key="java" value="2344" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CLASS" value="4" />
+          <entry key="CLASS" value="15" />
           <entry key="Groovy" value="2" />
-          <entry key="JAVA" value="1937" />
+          <entry key="JAVA" value="2344" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -135,8 +137,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/ebeda/sandbox/Point.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,32 +150,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sandbox/out/production/classes/ru/ebeda/sandbox/MyFirstProgram.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#639#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/ebeda/sandbox/MyFirstProgram.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-              <folding>
-                <element signature="e#446#447#0" expanded="true" />
-                <element signature="e#503#504#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/ebeda/sandbox/PointCalculate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="306">
+              <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -177,12 +159,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/ebeda/sandbox/Rect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="255">
+              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
               <folding>
-                <element signature="e#188#189#0" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#182#183#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/ebeda/sandbox/Square.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+              <folding>
+                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/ebeda/sandbox/MyFirstProgram.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -538,10 +542,10 @@
         <option value="$PROJECT_DIR$/sandbox/src/main/java/MyFirstProgram.java" />
         <option value="$PROJECT_DIR$/sandbox/build.gradle" />
         <option value="$PROJECT_DIR$/sandbox/src/main/java/ru/ebeda/sandbox/Square.java" />
-        <option value="$PROJECT_DIR$/sandbox/src/main/java/ru/ebeda/sandbox/Rect.java" />
-        <option value="$PROJECT_DIR$/sandbox/src/main/java/ru/ebeda/sandbox/MyFirstProgram.java" />
-        <option value="$PROJECT_DIR$/sandbox/src/main/java/ru/ebeda/sandbox/Point.java" />
         <option value="$PROJECT_DIR$/sandbox/src/main/java/ru/ebeda/sandbox/PointCalculate.java" />
+        <option value="$PROJECT_DIR$/sandbox/src/main/java/ru/ebeda/sandbox/Rect.java" />
+        <option value="$PROJECT_DIR$/sandbox/src/main/java/ru/ebeda/sandbox/Point.java" />
+        <option value="$PROJECT_DIR$/sandbox/src/main/java/ru/ebeda/sandbox/MyFirstProgram.java" />
       </list>
     </option>
   </component>
@@ -563,7 +567,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -665,11 +668,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552507897880" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552675593864" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/sandbox/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/sandbox/build.gradle" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -696,6 +700,19 @@
     </option>
   </component>
   <component name="RunManager" selected="Gradle.sandbox [build]">
+    <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.ebeda.sandbox.MyFirstProgram" />
+      <module name="sandbox_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.ebeda.sandbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PointCalculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.ebeda.sandbox.PointCalculate" />
       <module name="sandbox_main" />
@@ -708,24 +725,6 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="sandbox [buildNeeded]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/sandbox" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="buildNeeded" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method v="2" />
     </configuration>
     <configuration name="sandbox [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -782,19 +781,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Gradle.sandbox [buildNeeded]" />
       <item itemvalue="Gradle.sandbox [clean]" />
       <item itemvalue="Gradle.sandbox [run]" />
       <item itemvalue="Application.PointCalculate" />
       <item itemvalue="Gradle.sandbox [build]" />
+      <item itemvalue="Application.MyFirstProgram" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PointCalculate" />
+        <item itemvalue="Application.MyFirstProgram" />
         <item itemvalue="Gradle.sandbox [build]" />
-        <item itemvalue="Gradle.sandbox [run]" />
         <item itemvalue="Gradle.sandbox [clean]" />
-        <item itemvalue="Gradle.sandbox [buildNeeded]" />
+        <item itemvalue="Application.PointCalculate" />
+        <item itemvalue="Gradle.sandbox [run]" />
       </list>
     </recent_temporary>
   </component>
@@ -822,9 +821,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1934" height="1056" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25773746" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26307365" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -834,22 +832,22 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49893278" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49733192" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4994664" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010672" side_tool="true" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4994664" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5026681" side_tool="true" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.329718" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4994664" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2497332" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Gradle" order="5" visible="true" weight="0.32977587" />
+      <window_info active="true" anchor="right" id="Gradle" order="5" visible="true" weight="0.32977587" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32977587" />
@@ -891,26 +889,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/build/classes/java/main/ru/ebeda/sandbox/PointCalculate.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#678#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/out/production/classes/ru/ebeda/sandbox/PointCalculate.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#643#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/build/classes/java/main/ru/ebeda/sandbox/PointCalculate.class" />
     <entry file="file://$PROJECT_DIR$/sandbox/build/classes/java/main/ru/ebeda/sandbox/MyFirstProgram.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -918,61 +897,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/ebeda/sandbox/Square.java">
+    <entry file="file://$PROJECT_DIR$/sandbox/out/production/classes/ru/ebeda/sandbox/PointCalculate.class" />
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/ebeda/sandbox/PointCalculate.java" />
+    <entry file="file://$PROJECT_DIR$/sandbox/out/production/classes/ru/ebeda/sandbox/Rect.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-          <folding>
-            <element signature="e#104#105#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-          </folding>
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/out/production/classes/ru/ebeda/sandbox/Point.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/ebeda/sandbox/Rect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="255">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
           <folding>
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/ebeda/sandbox/MyFirstProgram.java">
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/ebeda/sandbox/Square.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="153">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
           <folding>
-            <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/out/production/classes/ru/ebeda/sandbox/MyFirstProgram.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#639#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/ebeda/sandbox/Point.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/ebeda/sandbox/PointCalculate.java">
+    <entry file="file://$PROJECT_DIR$/sandbox/out/production/classes/ru/ebeda/sandbox/MyFirstProgram.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="306">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/ebeda/sandbox/MyFirstProgram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>

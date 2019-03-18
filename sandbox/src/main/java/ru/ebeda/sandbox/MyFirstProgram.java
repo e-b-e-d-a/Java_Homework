@@ -11,8 +11,11 @@ public class MyFirstProgram {
     Square s = new Square(7);
     System.out.println("Что-то там квадрат "+ s.lalala+" "+ s.area());
 
-    Rect r = new Rect(8,4);
+    Rect r = new Rect(5, 6);
     System.out.println("Прямоугольник равен"+r.area());
+
+    Point p = new Point(4, 9);
+    System.out.println("Расстояние между точками = " + p.distance());
 
   }
 
