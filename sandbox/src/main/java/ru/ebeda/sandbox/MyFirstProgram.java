@@ -14,8 +14,9 @@ public class MyFirstProgram {
     Rect r = new Rect(5, 6);
     System.out.println("Прямоугольник равен"+r.area());
 
-    Point p = new Point(4, 9);
-    System.out.println("Расстояние между точками = " + p.distance());
+    Point p1 = new Point();
+    Point p2 = new Point();
+    System.out.println("Расстояние между точками = " + p1.distance(p2));
 
   }
 
